@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @jdhuntx
-- 👀 I’m interested in Go, Scala, Java, AWS, and other fun tech
-- 🌱 I’m currently studying for the AWS Solution Architect certification
+- 👀 These days I'm primarily interested in Go, Kubernetes, and AWS / GCP. I also work with Scala, Java, and Python.
 
 <!---
 jdhuntx/jdhuntx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
